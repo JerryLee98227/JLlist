@@ -15,3 +15,6 @@ http://111.11.123.49:6610/000000001000/5000000010000017540/1.m3u8?Contentid=5000
 http://111.40.196.33/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1,五星体育
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1,体育
+https://6av6vlgkb6hoyf.data.mediastore.eu-west-2.amazonaws.com/livea/main_1080p30.m3u8
+
